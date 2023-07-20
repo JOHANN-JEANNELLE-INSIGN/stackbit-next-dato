@@ -3,6 +3,6 @@ type: Page
 title: This is a new page
 sections:
   - type: HeroSection
-    heading: Test
+    heading: Test Page
     subheading: Hero Subheading
 ---
