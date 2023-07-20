@@ -3,7 +3,7 @@ type: Page
 title: Homepage
 sections:
   - type: HeroSection
-    heading: Welcome to Stackbit!
+    heading: Welcome to Hell
     subheading: |
       Hello.
     buttons:
