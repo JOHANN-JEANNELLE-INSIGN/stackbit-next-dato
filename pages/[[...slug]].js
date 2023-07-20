@@ -1,10 +1,9 @@
 import Head from 'next/head';
 
 import { DynamicComponent } from '../components/DynamicComponent';
-import { Footer } from '../components/Footer';
 import { pagesByType, siteConfig, urlToContent } from '../utils/content';
 
-const FlexiblePage = ({ page, siteConfig }) => {
+const FlexiblePage = ({ page }) => {
     return (
         <div className="page">
             <Head>
@@ -19,7 +18,6 @@ const FlexiblePage = ({ page, siteConfig }) => {
                     </div>
                 )}
             </div>
-            <Footer siteConfig={siteConfig} />
         </div>
     );
 };
