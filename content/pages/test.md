@@ -4,5 +4,6 @@ title: This is a new page
 sections:
   - type: HeroSection
     heading: Test Page
-    subheading: Hero Subheading
+    subheading: |
+      f**cking test page
 ---
