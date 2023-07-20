@@ -4,9 +4,8 @@ title: Homepage
 sections:
   - type: HeroSection
     heading: Welcome to Stackbit!
-    subheading: >
-      You've just [unlocked visual editing
-      capabilities](https://www.stackbit.com/) in this Next.js app.
+    subheading: |
+      Hello.
     buttons:
       - label: Start Building
         url: 'https://docs.stackbit.com/getting-started/'
